@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("/images/background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.image {
+    margin: auto;
+    margin-top: 15vh;
+    display: block;
+    height: 10rem;
+    width: 20rem;
+}
+
+h2 {
+    width: 90vw;
+    color: #fff;
+}
